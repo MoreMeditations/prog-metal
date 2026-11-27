@@ -1,6 +1,6 @@
 # prog-metal
 <h1>The Beginner's Guide to Modern Progressive Metal</h1><br>
-Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, <a href="Interactive Guide to Progmetal Full Resolution.pdf" download>you can download the full diagram here.</a> <br>  
+Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, <a href="Interactive Guide to Progmetal Full Resolution.pdf" download>you can download the full diagram here.</a> <br> <br> 
 
 <a href="https://www.youtube.com/playlist?list=PLPVYrcF9qcqgxnBx5OkgMcuNbMk2sThVJ">YOUTUBE SERIES</a> | <a href="Interactive Guide to Progmetal Full Resolution.pdf" download>FULL PDF DOWNLOAD</a> 
 
