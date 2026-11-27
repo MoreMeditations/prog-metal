@@ -1,6 +1,6 @@
 # prog-metal
 <h1>The Beginner's Guide to Modern Progressive Metal</h1><br>
-Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, you can download the high res .pdf using the link below. <br> <br> 
+Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, you can download the high res .pdf using the link below. <br> <br>
 
 <a href="https://www.youtube.com/playlist?list=PLPVYrcF9qcqgxnBx5OkgMcuNbMk2sThVJ">YOUTUBE SERIES</a> | <a href="https://github.com/user-attachments/files/35529910/Interactive.Guide.to.Progmetal.Full.Resolution.pdf" download>FULL PDF DOWNLOAD</a> 
 
@@ -18,20 +18,44 @@ Now let’s get started.
 
 <i>classic / dark / somber / jazzy</i>
 
-SPOTIFY PLAYLIST | YOUTUBE VIDEO
+<a href="https://open.spotify.com/playlist/0uGWK3pZvRDdwc9u9xKVoB?si=651ec4b00f6e46fd">SPOTIFY PLAYLIST</a> | <a href="https://www.youtube.com/watch?v=yOZxMOe_EIk">YOUTUBE VIDEO</a>
 
 This category is darker, has a more somber atmosphere, mixed harsh vocals, and takes root in traditional prog song structures and instruments.
 <h2>COHEED & CAMBRIA</h2>
 
 <i>quick / poppy / punk / structured</i>
 
-SPOTIFY PLAYLIST | YOUTUBE VIDEO
+<a href="https://open.spotify.com/playlist/5k5vHdMyyks1AKFylB78Oz?si=979fa70562e74467">SPOTIFY PLAYLIST</a> | <a href="https://youtu.be/lUrvtXcGed4?si=Dpinc6SA5yYyfQs1">YOUTUBE VIDEO</a>
 
 This side of prog metal is more poppy and a little bit influenced by punk. A lot of their songs have very simple structures, they move from chorus to verse to chorus like a standard song you hear on the radio, which is why I think they’re the most accessible of every band so far.
 <h2>PERIPHERY</h2>
 
 <i>djent / heavy / rhythmic / harsh</i>
 
-SPOTIFY PLAYLIST | YOUTUBE VIDEO
+<a href="https://open.spotify.com/playlist/01ru9fOLTgICYnBV0r65ok?si=e733dc52a7d34e78">SPOTIFY PLAYLIST</a> | <a href="https://youtu.be/252gfg6uR5o?si=s-dVK7E3gavmwPcM">YOUTUBE VIDEO</a>
 
 This is where metal starts to get a lot more intense, rhythmic, and very djenty. The vocal styles are often influenced by more of the cores, like metalcore, and the instrumentation is a lot more distorted, almost a little robotic at times, and focus less on melody. As you will hear this sound comes from a totally different place than the previous categories, and doesn’t share much commonality with the origins and the past of progressive rock. 
+
+<h2>MASTODON</h2>
+
+<i>powerful / gritty / sludge / post</i>
+
+<a href="https://open.spotify.com/playlist/4C1Z3gEARtyOiPXmcxY3fT?si=5669278077fd4e16">SPOTIFY PLAYLIST</a> | <a href="https://youtu.be/_v5o5er2JDY?si=SiTfRJsMa_KKyZkv">YOUTUBE VIDEO</a>
+
+This category takes a lot of influence from doom, stoner, and sludge metal. Fuzzy guitars, rough vocals, and thundering drums are what make the world go 'round.
+
+<h2>DREAM THEATER</h2>
+
+<i>epic / symphonic / complex / melodic</i>
+
+<a href="https://open.spotify.com/playlist/5lqfLwIqtzTNWYicbMY5V0?si=021c43cfef034234">SPOTIFY PLAYLIST</a> | <a href="https://youtu.be/ECkQGOgjJ-U?si=BNKKDbPtclmakP1G">YOUTUBE VIDEO</a>
+
+This category takes a lot of influence from original prog acts of the past and blends it with all kinds of different metal genres, making for a technical and symphonic experience.
+
+<h2>CYNIC</h2>
+
+<i>death / blast beat / atmospheric / groove</i>
+
+<a href="https://open.spotify.com/playlist/0uvOBeOLwNG8KlXUuCCowx?si=36ca98137296445c">SPOTIFY PLAYLIST</a> | YOUTUBE VIDEO
+
+This is going to have the most variety of any category, and also is the heaviest. Technical death, black metal, and all sorts of other influences are taken into account.
