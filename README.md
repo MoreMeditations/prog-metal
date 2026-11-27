@@ -1,8 +1,8 @@
 # prog-metal
 <h1>The Beginner's Guide to Modern Progressive Metal</h1><br>
-Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, <a href="Interactive Guide to Progmetal Full Resolution.pdf" download>you can download the full diagram here.</a> <br> <br> 
+Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, you can download the high res .pdf using the link below. <br> <br> 
 
-<a href="https://www.youtube.com/playlist?list=PLPVYrcF9qcqgxnBx5OkgMcuNbMk2sThVJ">YOUTUBE SERIES</a> | <a href="https://github.com/MoreMeditations/prog-metal/archive/refs/tags/pdf-download.zip" download>FULL PDF DOWNLOAD</a> 
+<a href="https://www.youtube.com/playlist?list=PLPVYrcF9qcqgxnBx5OkgMcuNbMk2sThVJ">YOUTUBE SERIES</a> | <a href="https://github.com/user-attachments/files/35529910/Interactive.Guide.to.Progmetal.Full.Resolution.pdf" download>FULL PDF DOWNLOAD</a> 
 
 This guide was created to help those who are new to the genre of modern progressive metal, and maybe even metal in general, get started without being either overwhelmed or just not being able to find something that appeals to their taste. My approach to this guide is to help steer you in the right direction but also give you the different paths you can take to go down the rabbit hole.
 
