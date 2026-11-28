@@ -1,7 +1,5 @@
 <img src="Banner-Website.jpg" alt="banner">
 
-<body style="background-color: darkgrey;">
-
 <h1>The Beginner's Guide to Modern Progressive Metal</h1><br>
 Welcome back, guys. Enclosed in this guide is a six part series introducing you to the genre of progressive metal. If you’d like to see the full flow chart, you can download the high res .pdf using the link below. <br> <br>
 
