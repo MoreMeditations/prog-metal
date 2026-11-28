@@ -14,7 +14,7 @@ Rather than being a definitive guide, think of this as taking a quick cursory gl
 
 Now let’s get started. 
 
-<h2>OPETH</h2>
+<h2><a href="https://moremeditations.github.io/prog-metal/OPETH">OPETH</a></h2>
 
 <i>classic / dark / somber / jazzy</i>
 
